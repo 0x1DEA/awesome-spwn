@@ -4,10 +4,9 @@
 SPWN is a language created by Spu7nix for use in the game Geometry Dash
 
 - List of projects
-  - [Libraries] (#libraries)
-    -  [Rendering] (#rendering-libs_
-  - [Full Levels] (#levels)
-  - [Fun] (#fun)
+  - [Libraries](#libraries)
+  - [Full Levels](#levels)
+  - [Fun](#fun)
 
 ## Libraries 
 
